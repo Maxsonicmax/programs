@@ -1,0 +1,11 @@
+print " 1: ",
+simvol = a,b,c
+First = input()
+if First = simvol,
+print " 1: ",
+print " 2: ",
+Second = input()
+print " =: ",
+Third = First + Second
+third = float(Third)
+print third
