@@ -11,3 +11,4 @@ for i in range (0, num) :
 	elif n[i] == '1' :
 		x = 0
 print y
+#sldfsgsdfg
